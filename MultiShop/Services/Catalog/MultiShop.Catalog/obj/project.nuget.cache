@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p6Id10uNxLR/OWlOC7KXfc+gZZOiMq7O3fPGN1JspHojbKvmdeXz5d4leOLUsnR1wi5pC6AiyT1PGwGDg27zvg==",
+  "dgSpecHash": "g/HCu8lcmvGYqwq1H05R6CD4PMOXTcNJNdJfquaZPCHib6TUfMutLtdXd3QKI5B59Ui77G6xgxjgenvPNOiVSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali_e\\Desktop\\GitHub\\Mikroservis-E-Ticaret\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\ali_e\\Desktop\\github\\Mikroservis-E-Ticaret\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali_e\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ali_e\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
