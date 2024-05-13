@@ -43,5 +43,12 @@ namespace MultiShop.Catalog.Controllers
             await _categoryService.DeleteCategoryAsync(id); 
             return Ok();
         }
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateCategory(UpdateCategoryDto updateCategoryDto)
+        {
+            await _categoryService.UpdateCategoryAsync(updateCategoryDto);
+            return Ok("Kategori başarıyla güncellendi");
+        }
     }
 }
