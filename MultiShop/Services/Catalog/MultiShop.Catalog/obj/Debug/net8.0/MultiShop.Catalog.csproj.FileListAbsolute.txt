@@ -1,4 +1,3 @@
-C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\appsettings.json
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.exe
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.deps.json
@@ -6,7 +5,6 @@ C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\M
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.dll
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\MultiShop.Catalog.pdb
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AWSSDK.Core.dll
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
 C:\Users\ali_e\Desktop\github\Mikroservis-E-Ticaret\MultiShop\Services\Catalog\MultiShop.Catalog\bin\Debug\net8.0\DnsClient.dll
