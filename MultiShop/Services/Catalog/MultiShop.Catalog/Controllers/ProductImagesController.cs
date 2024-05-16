@@ -43,7 +43,7 @@ namespace MultiShop.Catalog.Controllers
         public async Task<IActionResult> DeleteProductImage(string id)
         {
             await _productImageService.DeleteProductImageAsync(id);
-            return Ok();
+            return Ok("Ürün görselleri başarıyla silindi");
         }
 
         [HttpPut]

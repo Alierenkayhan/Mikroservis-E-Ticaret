@@ -41,7 +41,7 @@ namespace MultiShop.Catalog.Controllers
         public async Task<IActionResult> DeleteProductDetail(string id)
         {
             await _productDetailService.DeleteProductDetailAsync(id);
-            return Ok();
+            return Ok("Ürün detayı başarıyla silindi");
         }
 
         [HttpPut]
